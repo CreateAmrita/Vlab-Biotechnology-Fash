@@ -1,0 +1,782 @@
+﻿<!--
+Developed under a Research grant from NMEICT, MHRD
+by
+Amrita CREATE (Center for Research in Advanced Technologies for Education),
+VALUE (Virtual Amrita Laboratories Universalizing Education)
+Amrita University, India 2009 - 2013
+http://www.amrita.edu/create
+-->
+
+<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+
+
+
+
+<SCENE ID="1puIgG">
+	<TEXT ID="1puIgG_one">
+	<TEXTVALUE>Arrange all the equipments and reagents required for the experiment on the Lab table. Click on each to know the name or Click Continue to start the animation.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="2puIgGTaketheSample">
+	<TEXT ID="2puIgGTaketheSample_one">
+	<TEXTVALUE>The sample containing tube is taken out from the ice box.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="3puIgGOppenCentri">
+	<TEXT ID="3puIgGOppenCentri_one">
+	<TEXTVALUE>The lid of the centrifuge is opened.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="4puIgGPlacSamplAndwater">
+	<TEXT ID="4puIgGPlacSamplAndwater_one">
+	<TEXTVALUE>The tube containing sample is then kept into the slot of the centrifuge.  A tube containing distilled water is then kept into the opposite slot of the centrifuge for balance.</TEXTVALUE>
+	</TEXT>	
+</SCENE>
+
+<SCENE ID="5puIgG13000rpm30mini">
+	<TEXT ID="5puIgG13000rpm30mini_one">
+	<TEXTVALUE>The centrifuge is then set to 13000rpm for 30minutes at 4 degree Celsius.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6puIgGoppenit">
+	<TEXT ID="6puIgGoppenit_one">
+	<TEXTVALUE>The lid of the centrifuge is opened.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7puIgGkeepBack">
+	<TEXT ID="7puIgGkeepBack_one">
+	<TEXTVALUE>The Test sample is then taken out from the centrifuge.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8puIgGkeepinRack">
+	<TEXT ID="8puIgGkeepinRack_one">
+	<TEXTVALUE>The tube is then kept back on the rack.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9puIgGTakeSiring">
+	<TEXT ID="9puIgGTakeSiring_one">
+	<TEXTVALUE>A syringe is taken from the lab table.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10puIgGremovCap">
+	<TEXT ID="10puIgGremovCap_one">
+	<TEXTVALUE>The syringe is then filled with the Test sample.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="11puIgGremovsuprnat">
+	<TEXT ID="11puIgGremovsuprnat_one">
+	<TEXTVALUE>The syringe is then filled with the Test sample.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="12puIgGTakeFilter">
+	<TEXT ID="12puIgGTakeFilter_one">
+	<TEXTVALUE>A filter is taken from the lab table.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="13puIgGFitFilter">
+	<TEXT ID="13puIgGFitFilter_one">
+	<TEXTVALUE>The filter is then fixed into the syringe containing Test sample.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="14puIgGremovcap">
+	<TEXT ID="14puIgGremovcap_one">
+	<TEXTVALUE>The sample is then drained into a new 15ml tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="15Dialysis">
+	<TEXT ID="15Dialysis_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="16puIgGTakeforceps">
+	<TEXT ID="16puIgGTakeforceps_one">
+	<TEXTVALUE>A forceps is taken from the lab bench.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="17puIgGtakefromBeker">
+	<TEXT ID="17puIgGtakefromBeker_one">
+	<TEXTVALUE>The dialysing tubing dipped in the Ethanol storage solution is then picked out using the forceps.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="18puIgGrinsWithwater">
+	<TEXT ID="18puIgGrinsWithwater_one">
+	<TEXTVALUE>The dialysing tubing is then washed with the distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="19puIgTakeTheClip">
+	<TEXT ID="19puIgTakeTheClip_one">
+	<TEXTVALUE>The clamp is taken from the lab table.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="20puIgTakeclipIt">
+	<TEXT ID="20puIgTakeclipIt_one">
+	<TEXTVALUE>One end of the dialysing tubing is then clamped with the dialysing clamp leaving a one cm gap between the clamped position of the tube and the tip of the tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="21puIgReplaceit">
+	<TEXT ID="21puIgReplaceit_one">
+	<TEXTVALUE>The clamped tubing is then placed on the lab table.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="22puIgGFixthetube">
+	<TEXT ID="22puIgGFixthetube_one">
+	<TEXTVALUE>A glass pipette is inserted into the pipette holder.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="23puIgGtakeThetube">
+	<TEXT ID="23puIgGtakeThetube_one">
+	<TEXTVALUE>A sample containing tube is taken from the rack.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="24puIgGtakeInTheGlassTube">
+	<TEXT ID="24puIgGtakeInTheGlassTube_one">
+	<TEXTVALUE>The lid of the tube is then opened and 5ml of the sample is taken from the tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="25puIgGReplaceIt">
+	<TEXT ID="25puIgGReplaceIt_one">
+	<TEXTVALUE>The tube is then kept back on the rack.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="26puIgGfillingliqud">
+	<TEXT ID="26puIgGfillingliqud_one">
+	<TEXTVALUE>The sample is then transferred to the dialysis tubing using the pipette. The dialysis tubing should not be filled more than half the level.
+</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="27puIgGclipIt">
+	<TEXT ID="27puIgGclipIt_one">
+	<TEXTVALUE>The excess air is then removed from the tubing by gently squeezing the tube by sliding your fingers all the way up the tube and then the tubing is clamped at the top.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="28puIgGdipinPBSBuffer">
+	<TEXT ID="28puIgGdipinPBSBuffer_one">
+	<TEXTVALUE>The dialysis tubing is then taken and is immersed into a beaker containing PBS buffer at pH=8.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="29puIgGputMagnat">
+	<TEXT ID="29puIgGputMagnat_one">
+	<TEXTVALUE>A stir bar is placed into the beaker using forceps.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="30puIgGviciCooler">
+	<TEXT ID="30puIgGviciCooler_one">
+	<TEXTVALUE>The visicooler is shown.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="31puIgGtaktocooler">
+	<TEXT ID="31puIgGtaktocooler_one">
+	<TEXTVALUE>The buffer containing beaker is then placed on a magnetic stirrer inside the visicooler.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="32puIgGoppencooler">
+	<TEXT ID="32puIgGoppencooler_one">
+	<TEXTVALUE>The buffer containing beaker is then placed on a magnetic stirrer inside the visicooler.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="33puIgGswitch">
+	<TEXT ID="33puIgGswitch_one">
+	<TEXTVALUE>The stirrer is switched ON and the door of the visicooler is closed. It is kept for 3 hours at 4 degree Celsius.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="34puIgGswitchoff">
+	<TEXT ID="34puIgGswitchoff_one">
+	<TEXTVALUE>After 3 hours, the door of the visicooler is opened and the stirrer is switched OFF.  The beaker containing the dialysis tubing is taken from the visicooler.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="35puIgGReplaceBeker">
+	<TEXT ID="35puIgGReplaceBeker_one">
+	<TEXTVALUE>The beaker is then placed on the lab table and the dialysis tubing is taken out from the buffer.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="36puIgGcoverTake">
+	<TEXT ID="36puIgGcoverTake_one">
+	<TEXTVALUE>The color of the solution in the dialysis tubing turned clear from a yellowish color.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SCENE ID="37puIgGPlaceinpepar">
+	<TEXT ID="37puIgGPlaceinpepar_one">
+	<TEXTVALUE>Dialysis tubing is then placed on an absorbent paper to remove the excess buffer in the end of the tubing outside the clamped area. The tubing is wiped gently with another absorbent paper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="38puIgGtakefrompeper">
+	<TEXT ID="38puIgGtakefrompeper_one">
+	<TEXTVALUE>The dialysis tubing is taken and the upper clamp is released.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="39puIgGRemovClip">
+	<TEXT ID="39puIgGRemovClip_one">
+	<TEXTVALUE>The dialysis tubing is taken and the upper clamp is released.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="40puIgGRemovliqud">
+	<TEXT ID="40puIgGRemovliqud_one">
+	<TEXTVALUE>The suspension in the tubing is pipette out using a Pasteur pipette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="41puIgGtakTube">
+	<TEXT ID="41puIgGtakTube_one">
+	<TEXTVALUE>A sterile 15 ml tube is taken from the rack.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="42puIgGfillIntube">
+	<TEXT ID="42puIgGfillIntube_one">
+	<TEXTVALUE>The suspension from the Pasteur pipette is then transferred to the 15 ml tube. The tube is labeled as “Sample”.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="43puIgGplacItinice">
+	<TEXT ID="43puIgGplacItinice_one">
+	<TEXTVALUE>The tube labeled “Sample “is then kept in ice.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="44puIgGTaWater">
+	<TEXT ID="44puIgGTaWater_one">
+	<TEXTVALUE>The bottle containing Double distilled water is taken from the lab bench.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="45puIgGpourWateronColoum">
+	<TEXT ID="45puIgGpourWateronColoum_one">
+	<TEXTVALUE>The Double distilled water is then added to the column so as to wash the column; the stop cock of the column is released so that drops of water flow out through the tip. The stop is now closed and the double distilled water is then added again to the column and repeats the same.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="46puIgGPlacTheCoten">
+	<TEXT ID="46puIgGPlacTheCoten_one">
+	<TEXTVALUE>A cotton wool is plunged into the column and the cotton is gently pushed to the tip of the column using a glass rod. The column is then filled with Protein A sepharose solution till the marking shown.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="47puIgGTakPBS">
+	<TEXT ID="47puIgGTakPBS_one">
+	<TEXTVALUE>The bottle containing PBS solution is taken from the lab bench.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="48puIgGpourPBS">
+	<TEXT ID="48puIgGpourPBS_one">
+	<TEXTVALUE>The PBS solution containing bottle is then squeezed and the buffer is gently added to fill the column. The stop cock is then released and the buffer will start to move through the column outlet. The stop cock is then closed.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="49puIgGtakTheSample">
+	<TEXT ID="49puIgGtakTheSample_one">
+	<TEXTVALUE>The sample containing tube is then taken out from the ice.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="50puIgGoppenSample">
+	<TEXT ID="50puIgGoppenSample_one">
+	<TEXTVALUE>The lid of the tube is then removed.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="51puIgGDropinColoum">
+	<TEXT ID="51puIgGDropinColoum_one">
+	<TEXTVALUE>The sample is then slowly added to the column.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="52puIgGClosit">
+	<TEXT ID="52puIgGClosit_one">
+	<TEXTVALUE>The sample containing tube is then closed.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="53puIgPlacinrack">
+	<TEXT ID="53puIgPlacinrack_one">
+	<TEXTVALUE>The tube is then kept back in the rack.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="54puIgGTakPBS02">
+	<TEXT ID="54puIgGTakPBS02_one">
+	<TEXTVALUE>The bottle containing PBS solution is taken from the lab bench.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="55puIgGpourpbs02">
+	<TEXT ID="55puIgGpourpbs02_one">
+	<TEXTVALUE>The PBS solution containing bottle is then squeezed and the buffer is gently added to fill the column.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="56puIgGTakTestub">
+	<TEXT ID="56puIgGTakTestub_one">
+	<TEXTVALUE>The test tube labeled “D” is taken from the rack.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="57puIgGdropit">
+	<TEXT ID="57puIgGdropit_one">
+	<TEXTVALUE>The stop cock of the column is released and the buffer coming out [1ml each] will be collected in the test tube labeled “D”. The stop cock is then closed.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="58puIgReplacit">
+	<TEXT ID="58puIgReplacit_one">
+	<TEXTVALUE>The test tube labeled “D” is then taken and kept back into the test tube rack.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="59puIgChart">
+	<TEXT ID="59puIgChart_one">
+	<TEXTVALUE>Similarly collect the buffer [1ml each]  in test tubes labeled “A”, “B” and “C” also.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="60puIgtakquet">
+	<TEXT ID="60puIgtakquet_one">
+	<TEXTVALUE>A cuvette is taken from the cuvette rack.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<SCENE ID="61puIgtakDeWater">
+	<TEXT ID="61puIgtakDeWater_one">
+	<TEXTVALUE>The bottle containing Deionized water is then taken from the lab bench.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="62puIgdropToQt">
+	<TEXT ID="62puIgdropToQt_one">
+	<TEXTVALUE>The deionized water is then transferred into the cuvette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="63OppSpPhotometr">
+	<TEXT ID="63OppSpPhotometr_one">
+	<TEXTVALUE>The lid of the spectrophotometer is opened.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="64Adj280">
+	<TEXT ID="64Adj280_one">
+	<TEXTVALUE>The absorbance is set to 280nm.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="65PuIgGToblank">
+	<TEXT ID="65PuIgGToblank_one">
+	<TEXTVALUE>The ENTER button is then clicked.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="66PuIgGPlacitQt">
+	<TEXT ID="66PuIgGPlacitQt_one">
+	<TEXTVALUE>The cuvette containing BLANK solution is kept into the cuvette slot of the spectrophotometer and the lid of the spectrophotometer is then closed.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="67PuIgGBlank0.000A">
+	<TEXT ID="67PuIgGBlank0.000A_one">
+	<TEXTVALUE>The BLANK button is then clicked and the absorbance is set to zero.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="68PuIgGoppSp">
+	<TEXT ID="68PuIgGoppSp_one">
+	<TEXTVALUE>The lid of the spectrophotometer is now opened and the cuvette containing BLANK solution is now taken out from the slot.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="68aPuIgreplace">
+	<TEXT ID="68aPuIgreplace_one">
+	<TEXTVALUE>The cuvette is then kept back into the rack.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="69PuIgGTaktetub">
+	<TEXT ID="69PuIgGTaktetub_one">
+	<TEXTVALUE>The test tube labeled “D” is taken from the rack.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="70PuIgGTakQte">
+	<TEXT ID="70PuIgGTakQte_one">
+	<TEXTVALUE>Another cuvette is taken from the rack.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="71PuIgGDroponit">
+	<TEXT ID="71PuIgGDroponit_one">
+	<TEXTVALUE>The contents of the test tube labeled “D” is then transferred to the cuvette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="72puIgGplacIt">
+	<TEXT ID="72puIgGplacIt_one">
+	<TEXTVALUE>The cuvette is then kept into the slot of the spectrophotometer and the lid is closed.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="73puIgGAdj0.010A">
+	<TEXT ID="73puIgGAdj0.010A_one">
+	<TEXTVALUE>The SAMPLE button is clicked and the absorbance of the test solution is noted.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="74puIgGFixthePippet">
+	<TEXT ID="74puIgGFixthePippet_one">
+	<TEXTVALUE>A glass pipette is inserted into a pipette pump.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="75puIgGtakAcidPH3">
+	<TEXT ID="75puIgGtakAcidPH3_one">
+	<TEXTVALUE>A 15ml tube containing 0.1M citric acid at pH=3 is taken from the rack.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="76puIgGSukusepipt">
+	<TEXT ID="76puIgGSukusepipt_one">
+	<TEXTVALUE>The tube is then opened and 3ml of the citric acid is pipetted out using the glass pipette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="77puIgGdropQut">
+	<TEXT ID="77puIgGdropQut_one">
+	<TEXTVALUE>The pipetted citric acid is then loaded into the column.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="78puIgGTakpiptPumb">
+	<TEXT ID="78puIgGTakpiptPumb_one">
+	<TEXTVALUE>A micropipette is taken from the rack.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="79puIgGAdjkpiptPumb">
+	<TEXT ID="79puIgGAdjkpiptPumb_one">
+	<TEXTVALUE>The volume is adjusted to 50 microlitre.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="80puIgGTaktip">
+	<TEXT ID="80puIgGTaktip_one">
+	<TEXTVALUE>A micropipette tip is then inserted.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="81puIgGTakbuffer">
+	<TEXT ID="81puIgGTakbuffer_one">
+	<TEXTVALUE>The cap of the tube containing Tris base buffer is removed and 50 microlitre of the buffer is pipetted out using the micropipette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="82puIgGTakVail">
+	<TEXT ID="82puIgGTakVail_one">
+	<TEXTVALUE>A microfuge tube is taken from the rack.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="83puIgGfillIt">
+	<TEXT ID="83puIgGfillIt_one">
+	<TEXTVALUE>The cap of the microfuge tube is then opened and the buffer is now transferred to the tube from the pipette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="84puIgGReplceit">
+	<TEXT ID="84puIgGReplceit_one">
+	<TEXTVALUE>The microfuge tube is then kept back on the rack and another microfuge tube is taken from the rack.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="85puIgGchart">
+	<TEXT ID="85puIgGchart_one">
+	<TEXTVALUE>Similarly, the remaining microfuge tubes were filled with the Tris base buffer.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="86puIgGTakit">
+	<TEXT ID="86puIgGTakit_one">
+	<TEXTVALUE>A microfuge tube containing buffer is taken from the rack.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="87puIgGchart">
+	<TEXT ID="87puIgGchart_one">
+	<TEXTVALUE>The microfuge tube is then kept under the column to collect the transparent liquid coming out of the column.  All the tubes are kept for collecting the liquid coming out from the column outlet.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="88aPuIgGDialysis">
+	<TEXT ID="88aPuIgGDialysis_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+
+
+
+
+
+
+
+
+
+<SCENE ID="89PuIgGTakforceps">
+	<TEXT ID="89PuIgGTakforceps_one">
+	<TEXTVALUE>A forceps is taken from the lab bench.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="90PuIgGTakcover">
+	<TEXT ID="90PuIgGTakcover_one">
+	<TEXTVALUE>The dialysing tubing dipped in the Ethanol storage solution is then picked out using the forceps.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="91PuIgGwashit">
+	<TEXT ID="91PuIgGwashit_one">
+	<TEXTVALUE>The dialysing tubing is then washed with the distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="92PuIgGTakClip">
+	<TEXT ID="92PuIgGTakClip_one">
+	<TEXTVALUE>The clamp is taken from the lab table.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="93PuIgGFixClip">
+	<TEXT ID="93PuIgGFixClip_one">
+	<TEXTVALUE>One end of the dialysing tubing is then clamped with the dialysing clamp leaving a one cm gap between the clamped position of the tube and the tip of the tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="94PuIgGtakpiptpump">
+	<TEXT ID="94PuIgGtakpiptpump_one">
+	<TEXTVALUE>A micropipette is taken from the rack.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="95PuIgGtakTip">
+	<TEXT ID="95PuIgGtakTip_one">
+	<TEXTVALUE>A fresh micropipette tip is inserted into the pipette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="96PuIgGtakVail01">
+	<TEXT ID="96PuIgGtakVail01_one">
+	<TEXTVALUE>The sample from the vial is taken using a pipette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="97PuIgGDrop01">
+	<TEXT ID="97PuIgGDrop01_one">
+	<TEXTVALUE>The sample is then transferred to the dialysis tubing.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="98PuIgGTakVail02">
+	<TEXT ID="98PuIgGTakVail02_one">
+	<TEXTVALUE>The sample from the second vial is taken using a pipette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="99PuIgGDropl02">
+	<TEXT ID="99PuIgGDropl02_one">
+	<TEXTVALUE>The sample is then transferred to the dialysis tubing.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="100PuIgGVakVia03">
+	<TEXT ID="100PuIgGVakVia03_one">
+	<TEXTVALUE>The sample from the vial is taken using a pipette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="101PuIgGDrop03">
+	<TEXT ID="101PuIgGDrop03_one">
+	<TEXTVALUE>The sample is then transferred to the dialysis tubing.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="102PuIgGTakVial04">
+	<TEXT ID="102PuIgGTakVial04_one">
+	<TEXTVALUE>The sample from the last vial is taken using a pipette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="103PuIgGDrop04">
+	<TEXT ID="103PuIgGDrop04_one">
+	<TEXTVALUE>The sample is then transferred to the dialysis tubing.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="104PuIgGRemoovair">
+	<TEXT ID="104PuIgGRemoovair_one">
+	<TEXTVALUE>The excess air is then removed from the tubing by gently squeezing the tube by sliding your fingers all the way up the tube and then the tubing is clamped at the top.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="105PuIgGPH7.3">
+	<TEXT ID="105PuIgGPH7.3_one">
+	<TEXTVALUE>The dialysis tubing is then immersed in a beaker containing PBS buffer at pH=7.3.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="106PuIgGplacmagnet">
+	<TEXT ID="106PuIgGplacmagnet_one">
+	<TEXTVALUE>Using a forceps, stir bar is placed inside the beaker containing the PBS buffer.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="107PuIgGtaktocoler">
+	<TEXT ID="107PuIgGtaktocoler_one">
+	<TEXTVALUE>The buffer containing beaker along with the dialysis tubing is taken from the lab bench.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="108PuIgGplacit">
+	<TEXT ID="108PuIgGplacit_one">
+	<TEXTVALUE>The door of the Visicooler is opened and the beaker is placed in the magnetic stirrer inside the visicooler.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="109PuIgGto3Hr">
+	<TEXT ID="109PuIgGto3Hr_one">
+	<TEXTVALUE>The stirrer is switched ON and the door of the visicooler is closed. It is kept for 3hours at 4 degree Celsius.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="110PuIgGRemovit">
+	<TEXT ID="110PuIgGRemovit_one">
+	<TEXTVALUE>After 3 hours, the door of the visicooler is opened and the stirrer is switched OFF.  The beaker containing the dialysis tubing is taken from the visicooler.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="111PuIgGReFromBeker">
+	<TEXT ID="111PuIgGReFromBeker_one">
+	<TEXTVALUE>The beaker is then placed on the lab table and the dialysis tubing is taken out from the buffer.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="112PuIgGplacit">
+	<TEXT ID="112PuIgGplacit_one">
+	<TEXTVALUE>The beaker is then placed on the lab table and the dialysis tubing is taken out from the buffer.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="113PuIgGplacthePepar">
+	<TEXT ID="113PuIgGplacthePepar_one">
+	<TEXTVALUE>Dialysis tubing is then placed on an absorbent paper to remove the excess buffer in the end of the tubing outside the clamped area. The tubing is wiped gently with another absorbent paper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="114PuIgGTakIt">
+	<TEXT ID="114PuIgGTakIt_one">
+	<TEXTVALUE>The dialysis tubing is taken and the upper clamp is released.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="115PuIgGRemoovclip">
+	<TEXT ID="115PuIgGRemoovclip_one">
+	<TEXTVALUE>The dialysis tubing is taken and the upper clamp is released.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="116PuIgGReLiqud">
+	<TEXT ID="116PuIgGReLiqud_one">
+	<TEXTVALUE>The suspension in the tubing is pipetted out using a Pasteur pipette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="117PuIgGtaktube">
+	<TEXT ID="117PuIgGtaktube_one">
+	<TEXTVALUE>A sterile 15 ml tube is taken from the rack.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="118PuIgGfillit">
+	<TEXT ID="118PuIgGfillit_one">
+	<TEXTVALUE>The suspension from the Pasteur pipette is then transferred to the 15 ml tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="119PuIgGStorincoler">
+	<TEXT ID="119PuIgGStorincoler_one">
+	<TEXTVALUE>The tube with the dialysed sample is kept in the refrigerator.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+</DATA>
