@@ -3,7 +3,7 @@ Virtual lab biotechnology flash animations and simulations
 
 **Use the following steps to execute the **_Biotechnology_** experiments.**
 
-1. Download Vlab-Flash-Chemistry experiments from [GitHub](https://github.com/CreateAmrita/Vlab-Biotechnology-Flash)
+1. Download Vlab-Biotechnology-Flash experiments from [GitHub](https://github.com/CreateAmrita/Vlab-Biotechnology-Flash)
 
 2. Move the experiment folders in the root to **Template files/BIO/EXP** folder to execute the experiments.  See one example here: [GitHub](
 https://github.com/CreateAmrita/Vlab-Biotechnology-Flash/tree/main/Template%20files)
